@@ -41,7 +41,7 @@ struct ContentView: View {
                         }
                     )
                 
-                }.accentColor(.black)
+                }.accentColor(.blue)
                 
             }
             .navigationBarHidden(true)
